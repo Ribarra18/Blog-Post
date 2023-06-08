@@ -1,0 +1,58 @@
+p1 {
+    font-size: 50px;
+}
+li {
+  font-family: "Sofia", sans-serif;
+}
+
+.one {
+  font-family: 'Roboto', sans-serif;
+  }
+
+
+body {
+  background-color: #86FF86;
+}
+
+h2 {
+  color: #10D464;
+  text-align: center;
+}
+
+img {
+  width: 390px;
+  height: 330px;
+}
+
+
+title {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70px;
+}
+ h2 {
+  color: #FFFFFF;
+  text-align: center;
+  }
+
+h3 {
+  color: #FFFFFF;
+  text-align: center;
+  }
+
+.fit-picture {
+  width: 200px;
+  align-center;
+}
